@@ -5,3 +5,5 @@ Git tracks changes of files.
 Git add a quick branch.
 Git is a pretty tool.
 Git is a good tool.
+Creating a new branch is quack and simple.
+Git is a very useful tool.
